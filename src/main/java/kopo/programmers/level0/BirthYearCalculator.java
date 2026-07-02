@@ -13,7 +13,7 @@ public class BirthYearCalculator {
         System.out.println(solution(age));
     }
     static int solution(int age) {
-        int hap = 0;
+        int hap;
         hap = 2023 - age;
 
         return hap;
