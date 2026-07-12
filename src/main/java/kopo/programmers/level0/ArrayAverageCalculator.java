@@ -14,7 +14,6 @@ public class ArrayAverageCalculator {
     static double solution(int[] num) {
         // 평균값 구하기 => 모든 숫자를 다 더하고 더한 숫자 갯수 만큼 나누면 됨
         double ans = 0;
-        int aaa = 0;
         //aaa값은 배열 갯수에 따라 크기?가 정해지고
         for (int i = 0 ; i < num.length; i++){
             ans += num[i];
