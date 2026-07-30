@@ -2,7 +2,7 @@ package kopo.programmers.level0;
 
 public class PizzaOrderCalculator {
     public static void main(String[] args) {
-        /**
+        /*
          * 피자 나눠먹기
          *
          * 머쓱이네 피자가게는 피자를 두 조각에서 열 조각까지 원하는 조각 수로 잘라줍니다.
